@@ -6,7 +6,7 @@ I turn data into actionable business insights using **SQL, Excel & Power BI**, w
 
 I'm particularly interested in **Store Sales Analysis & Product Management** and **Advertising Campaign Analysis & Consumer Behavior**. Currently building real-world analytics projects and developing my skills for freelance opportunities.
 
-## 🎯 Focus Areas
+## 🎯 Areas of Interest & Focus
 
 * **Store Sales Analysis & Product Management**
 * **Advertising Campaign Analysis & Consumer Behavior**
