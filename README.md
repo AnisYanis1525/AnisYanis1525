@@ -2,35 +2,35 @@
 
 ### Data Analyst | E-commerce & Marketing Analytics 📊
 
-I turn data into actionable business insights using **SQL, Python, Excel & Power BI**.
+I turn data into actionable business insights using **SQL, Excel & Power BI**, while developing my Python skills for data analytics.
 
-I'm particularly interested in **E-commerce Analytics, Customer Behavior, Sales Performance, and Marketing Data**. Currently building real-world projects and developing my skills for freelance opportunities.
+I'm particularly interested in **Store Sales Analysis & Product Management** and **Advertising Campaign Analysis & Consumer Behavior**. Currently building real-world analytics projects and developing my skills for freelance opportunities.
 
 ## 🎯 Focus Areas
 
-* E-commerce & Sales Analytics
-* Customer Behavior Analysis
-* Marketing Performance Analysis
+* **Store Sales Analysis & Product Management**
+* **Advertising Campaign Analysis & Consumer Behavior**
 * Data Cleaning & Exploratory Data Analysis
 * Business Intelligence & Data Visualization
 
 ## 🛠️ Skills
 
-* SQL / MySQL
-* Python (Pandas, NumPy)
+* **SQL / MySQL / SQL Server**
+* **Excel**
+* **Power BI**
 * Data Cleaning & EDA
 * Data Visualization
-* Excel
-* Power BI
 
 ## 📚 Currently Learning
 
 * Advanced SQL for Data Analysis
-* Python for Data Analytics
+* **Python for Data Analytics**
 * Power BI & Dashboard Development
-* E-commerce KPIs and Business Analytics
+* **E-commerce Sales & Product Analytics**
+* **Advertising & Consumer Behavior Analytics**
 * Customer Segmentation & RFM Analysis
 
 ## 🚀 Projects
 
-Here you'll find projects focused on transforming raw data into meaningful insights, with a growing emphasis on **E-commerce, Customer, Sales, and Marketing Analytics**.
+Here you'll find projects focused on transforming raw data into meaningful business insights, with a growing focus on **Store Sales, Product Management, Advertising Campaigns, and Consumer Behavior**.
+
